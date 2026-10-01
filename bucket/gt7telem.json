@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "TRACE — GT7 Telemetry Suite: live dashboard, lap analyst, and race analyst for Gran Turismo 7.",
   "homepage": "https://gt7trace.netlify.app",
   "license": "MIT",
-  "url": "https://github.com/ransh2014/gt7telemtrace/releases/download/v0.5.0/gt7telem-windows.zip",
-  "hash": "a9d392fd2be604b4c733b2954ea382ad5fb75bdc391d35545eb7a8ff3ea062fd",
+  "url": "https://github.com/ransh2014/gt7telemtrace/releases/download/v0.5.1/gt7telem-windows.zip",
+  "hash": "ca8042769db050001cbcd759ac4754ba6d2aca50f1a7908c91dc7e4611c8108b",
   "bin": "TRACE.exe",
   "shortcuts": [
     [
